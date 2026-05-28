@@ -1,0 +1,14 @@
+en javascript existen 
+dos ipos de operadores comparativos 
+el debil y el fuerte 
+el debil se representa con dos iguales == 
+es debil ya que antes de realizar la comparacion, hace una coercion de tipos, es decir conbierte ambas variables en el mismo tipo de variable para luego porder hacer la comparacion 
+ejemplo a = 0 == false // como resultado da true ya que antes de realizar la comparacion 
+convierte el boolean en 0 
+
+mientas que la igualdad estricta se representa === 
+la estricta no realiza ningun tipo de coercion de tipo, por ende pasa a realizar la comparacion directamente 
+ejejmplo a = 0 === flase // dando como resultado false 
+
+cosa similar pasa con los operadores de desigualdad 
+ya que el de desigualdad debil se rrepresetna con !=, mientras que el de desigualdad estricta se representa con !== . 
