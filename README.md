@@ -9,3 +9,8 @@ for i in lista:
    if i =="a" or i =="e" or i =="i" or i =="o" or i =="u":
        contador += 1
 print(f"cantidad de vocales es: {contador}")
+
+
+// javascript 
+igualdad debil == estricta ====
+desigualdad != estricta !== 
