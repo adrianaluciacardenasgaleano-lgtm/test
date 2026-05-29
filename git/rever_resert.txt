@@ -1,0 +1,11 @@
+git revert hash 
+lo que hace este comando es revertir los cambios, creando un nuevo commit. 
+no borra historial 
+mienttas que el git reset tiene tres parametros 
+git reset --hard hash 
+elimina definitivamente el commit creado, 
+git reset --sofd hash 
+posiciona los archivos o cambios en el stage 
+git reset --mixed hash 
+posiciona los cambios fuera de git 
+cabe aclarar que estos eliminan el historiial  
