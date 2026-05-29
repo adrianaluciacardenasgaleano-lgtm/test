@@ -1,0 +1,5 @@
+los issues permiten esclarecer algun defecto del codigo 
+
+son como sugenencias que otras personas nos dan a nuestro repositorio para la solucion desede un pequeño problema como un error se ortografia hasta un 
+en como se espera que reaccione nuestro proyecto 
+
