@@ -1,0 +1,3 @@
+las wikis tambien sirven para crear documentacion de l repositorio 
+permitiendo crear pagina que se puedan navegar entre si, ademas de permitir 
+clonar en el entorno local, sin la necesidad de clonar el repositorio. 

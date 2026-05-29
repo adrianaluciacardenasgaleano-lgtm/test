@@ -1,0 +1,13 @@
+En primer lugar 
+creamos un reposistorio exactamente con el mismo nombre del usuario 
+       devera aparecer una leyenda diciendo que este reposistorio sera  un repositorio especial 
+       este repositorio debe ser publico y admeas agreagr el archivo readme 
+una vez creado el archivo reradme aparecera el la portada de tu perfil de git hub. 
+
+una vez creado 
+lo clonas, abres con code. 
+en el archivo de readme 
+puedes colocar inofrmacion profesional como en que laboras que estudiostienes etc . 
+
+se agreagan batch 
+
