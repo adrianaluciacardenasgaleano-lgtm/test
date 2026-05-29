@@ -1,0 +1,4 @@
+con git merge se pueden generar conflictos para solucionarlo 
+git merge name_branch 
+permite fusionar ramas con main 
+pero si varios archivos han sido modificados, esto permite desidir con que cambios quedarse.
