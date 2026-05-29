@@ -1,0 +1,9 @@
+operadores logicos 
+son operadores que compueban convinaciones de comparaciones 
+tenenmos 
+&& el operador es true cuando todos los operandos son verdaderos
+|| alguno de los peradores es verdadero 
+!   niega lo que se este comparando, es decir que lo que este adentro es falso 
+
+entonces ba = !(5>3 || 5<1)
+la repsuesta es falsa ya que uno de los operandos es verdadero 
