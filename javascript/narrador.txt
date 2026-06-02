@@ -1,0 +1,1 @@
+SHIFT + ALT + F1 : lee el nombre del archivo y el contendio que alla dentro 

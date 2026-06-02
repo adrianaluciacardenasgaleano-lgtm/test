@@ -1,0 +1,16 @@
+para la coercion de tipos en javascrpt; pueden suceder por dos formas 
+la primera es de manera inplicita o explicita 
+ de manera implicita implica que ella internamente lo haga, como por ejemplo con la igualdad debil, que internamente realiza la coercion. 
+
+ por otro lado, detemos, la explicita que implica que usemos como funciones para poder rrealzr la coercion 
+ funciones como:
+ String(value)
+ Number(value)
+ Boolean(value)
+
+ por otro lado, tenemos sentencias como ir que permitne realizar condicionales, la sintaxis es:
+ if(condicion){
+    code
+    code
+    code
+ }
