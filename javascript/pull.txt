@@ -1,5 +1,0 @@
-el proceso que consiste en crear cambios en una rama, en donde se sube esta rama con git push --set-upstream origin nombre_rama
-donde se rqaliza el pull request para que otros colaboradores puedan visualizar estos cambios, 
-etse proceso se conoce como code review 
-
-// important para poder subir los cambios en git hub. 
