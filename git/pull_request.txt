@@ -1,0 +1,22 @@
+evitar de tratr de sobrecolocar tus cabios sobre el trabajo de otros, ya que se podrian borrar algunos vambiosw, 
+cada quien trabaje sobre sus ramas 
+
+pull request >
+permiten fucionar los cambios s
+permite fucionar  la rama local con la rama origin 
+ cualquer persona se le pude agreat 
+varias revisiones del codigo subideo al  git se conoce como git review 
+ 
+en primer lugar crear la rama que se aca a utlizar  
+git branch cofirmar la rama en la que esta 
+ git add . 
+git commit -m ""
+ git push -u origin nombre_rama 
+ pero antes si esa rama no existe en la nube 
+ git --set-upstream -u origin  nombre_rama 
+
+ una vez esxistas hay si puedes ussar git  push 
+
+pull request  es como un requerimiento de un git local al git de la nube para que el codigo sea analizado y visto y aprobado 
+
+
