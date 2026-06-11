@@ -1,0 +1,41 @@
+creacion de paginas web y su despliegue a apartir de git hub 
+
+esta alojado  en un repositorio 
+pages.github.com 
+permite tutorial como funciona 
+CREAR REPOSITORIO 
+GITHUB.IO 
+
+CREAR NUEVO REPOSITIO 
+AMIESPINOSA.GITHUB.IO 
+DESCRIPCION PAGINA DE PRUEVA PUBLICO 
+LAS PAGES SON  PUBLICAS 
+LA UNICA MANERA QUE SEA PRIVADA ES DOMINIO EMPRESARIALES 
+
+SELECCIONAR BOTON CODE 
+CCS  LA DIRECCION 
+ plantilla nueva 
+esa carpeta este en el nuevo proyecto de pages 
+ index 
+html 
+click drecho 
+usar la palabra docs 
+colocar el contenido del sitio web 
+
+settings 
+pryecto 
+
+pages 
+
+a partir edee que vas a desplegarla 
+ desplegarla desde branch como main 
+solo dos opciones desde al raiz o desde dogs 
+guardar los cambios 
+regredar  a la pagina principlal  
+
+crear un repostiorio con extension github.io 
+glonar repositirio  y creacion de carpeta docs 
+hacer git push git commit  agregar cambios , 
+dirigirse a settings proyect pages 
+
+elegir la carpeta docs como fuente desde uan branch 
