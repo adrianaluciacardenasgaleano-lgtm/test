@@ -1,0 +1,37 @@
+CIBERSEGURIDAD  
+
+SOC security operation  center 
+en la segurediad son todas aquellas tecnicas, politicas, procesos que se siguen  para ga
+rantizar  la triada de la informacion 
+ 1 INTEGRIDAD   es que la informacion no sea modificada, alterada por ninguna persona, entidad o demas  de no ser que sea por proceso. 
+ 2 DISPONIBILIDAD  es que la informacion  este disponible en el momento en que se necesite. 
+ 3 CONFIDENCIALIDAD  es que esta informacino solo sea accedida por las personas  que esten autorizadas 
+
+
+la  cibersegurdiad  no es una herramieinta es un proceso 
+y no hay que verlo como un castillo sino como un aeropuesrto, con varios protocolos de seguridad 
+
+todas las protocolos de seguridad  deben inicar con los requerimieintos como cuando  un cajero no existe el bton de reversa. 
+
+
+las diferencias entre el QAV  Y UN TESTER DE CIBERSEGURIDAD 
+qa   REVIDA DEFECTOS DEL PROGRAMA 
+ tester  REVISA VULNERABILIDADES 
+TODO FRONTEND DEBE TENER VALIDADCIONES 
+PERO TAMBINE ES IMPORTANTE QUE  
+un programador debe 
+ VALIDAR SANTILIZAR  LOS INPUTS  antes de entrar  para validar y  restringir  todo tipo de caracter  especiales. ya que lo puede rompre  o con inyeccion sql 
+ VALIDAR LOS OUTPUTS  que tambienddebe  
+es importante que 
+nunca se debe permitir que el cliente vea un error tecnologico que ya que esto le puede dat informacion valiosa al  ciberdelincuente 
+
+
+para el cargue de archivos es importante, tener lo siguiente en cuenta 
+
+1 nunca cargues archivos en el mismo servidor donde se aloja la aplicacion es un error garrafal 
+2 verificar la extencion del archivo 
+3 verificar el content-type 
+
+4verificar los magic-bytes que basicamente son la firma qe le dicen ala  sistema oprativo si es coresponde con la extencion >
+nunca dejes ver la ruta de los archivos ya que se puede verificar y sacar inofrmacion en la mayoria de los casos usan  las mismas llaves de encriptacion para desencriptar  esto se le conoce como simetria 
+
