@@ -1,0 +1,4 @@
+dtos curiosos  
+para colocar el signo de doalr, lo puedes hacer junto al otro signo de dolar que concatena 
+ los datos que se presentan  
+
