@@ -1,0 +1,42 @@
+en el  proyecto de drgurifaf    
+gestion de seuridad en 
+de los paquetes  con mnet 
+
+las aplciacines dependen de paquetew de terceros  pueden tenerr una brecha de seuridad  
+SETTINGS  O SEGURIDAD  
+DEPENDABOT  ESTA DESABILITSDO  DEL REPOSITORIO  
+ 
+en el repositoio  en el que estoy trabajando 
+analisis  
+ 
+
+seleccionar las catergorias de depndablot 
+ que todo este abilitado 
+ con todas posibilidades 
+
+  
+dependabot  version updates 
+dependabot.yametn
+vbastar ejecutando dependiendo del intervalo como daily 
+ese archivo se guareda como  una rama nrmal 
+instalar paquetes .json 
+update  segun la version 
+
+numero dos en seguridad  
+seleccionar la catergoria y desplazar hacia abajo 
+te avisa que version son opsoletas 
+coloca las mas prieoridad  
+y de manera automatica 
+ cual 
+entre las versiones de seguridad de los paquetes 
+security update 
+pull request 
+dependabot 
+   la compativifad entre versiones 
+
+puedo fusionar el pull rquest  
+
+los paquestes la nueva version genera 
+si bien es iportante mantenerce actualizado po temas de seguridad tambien hay que tener en cuanta que las versiones cabmiaran el algo y puede que con el cambio de la los paquetes, genre una incopatibilidad con respecto  a eso 
+por esa razon es importante tomar encuneta que si se van a actualizar las  paquetes este sean compatibles con todo el programa 
+

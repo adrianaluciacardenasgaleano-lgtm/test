@@ -1,0 +1,28 @@
+en este momento tenemos varias especificaciones de git git  spcepaces es como   abrir una maquina virtual, 
+en el cual  puedes codigicar, 
+en este especificaciones  
+agregas 
+.dev container contie4ne un archivo json de configuracion  
+el codespace lo codigica 
+mete todos los archvios como en un conteiner  para que visual sea desplegado con toda la configuracion necesario
+ en la parte de abvajo tiene las extencions que se necesitan  
+las tres lineas  para abri en desktop 
+ intalar codespacs 
+aparecera un eroor  del puerto  por usarlos al mismo tiempo  
+refresh 
+dentro de la terminal control c   --------------
+
+progrmacion en pareja patra editar lineas para decir que se queda clikesurch   ddo las ctualicaciones no tnener la expensiion de containr
+se puede ompartir con un colaboraador  
+
+ la seccion de codespaces que  se encuentran activas 
+lifeshare 
+compartir 
+continuar 
+
+puede seguir su actividad y las cnotiifcacineos que el sugiere  
+ una vez se cierre el codespaces  los colaboradores se quedan por fuera 
+bajar a la seccion de shar 
+stop in session quearan fuera de la session 
+permitir a una prsona entrar a un entorno virtual 
+

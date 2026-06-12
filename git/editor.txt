@@ -1,0 +1,15 @@
+seleccionar el icono de editar sin problema 
+al devolver  
+los manda a un editor de codigo muy parecido a visual code 
+cambios desde el editor 
+
+got to the rrepositrory  
+no es igual que  codespaces  
+con ese editor 
+diferenfcfias 
+editor de texto  crear una nueva terminal  en codespaces  lo idelal si quieres una termianal . 
+corregir  erroes vacios 
+ editar muy rapido 
+o trabajo de desarrollo remoto 
+
+
