@@ -1,0 +1,27 @@
+in this we will talking about the  repository private and his security  
+
+
+la seguridad de los repositorios  dos mejores practivcas al momneto de trabajar 
+
+tipo de repostitorio  
+ existen publicos y privados  
+
+a la serecha  aparece la opcion publlic 
+dirigete en settins 
+general 
+primera opcion visibilidad 
+cambiar a privado  confirmar  
+
+2 segunda practia preventiva 
+regrrar al priver repo en vs code 
+jalar todos los vambios 
+ ver la rama 
+git swich main  
+confirmar la rama 
+git pull 
+pide validadr4  
+
+abrimos visual code  con code . 
+para abrir una nueva isntancia  
+
+ 
