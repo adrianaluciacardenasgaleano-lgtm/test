@@ -1,0 +1,13 @@
+con git tag 
+for create a tag 
+you use
+git tag -a name_tag
+for edit this tag you need to delete first 
+git tag -d name_tag
+git tag new_name_tag
+   
+
+for the travel on the time you can use checkout 
+git checkout hash 
+is important use the hash this form, you can do changes, go back to the main and this changes won't do it. 
+
