@@ -1,0 +1,32 @@
+en este caso, al conversion de tiipo de datos de en javascript, se ejecuta con varias undaciones las cuales las principales son 
+
+
+parseFloat(variable o numero a convertir )
+
+por ejemplo 
+ var1  = parseFloat(4.21);
+ var2 = parseInt(21);
+
+cuando quieres realizr una operacioon matematica, es importante realizar  en primer lugar 
+la conversion de tipo de datos ya que posiblemente se pueda geerar un errror ya que al ralizar otras opraciones como +, puedes rralizar la concatenacin de cadenas por ejemplo 
+
+let car = "6";
+let car2 = "6";
+let suma = car + car2; 
+el resultado sera  "66" 
+let  var = parseFloat("4.2");
+
+para realizar correctamente la conversion de tipos de datos ya que  los diferentes tipos de datos se compoan de  manera distanta. 
+
+
+por ejemplo 
+concatenacion :"6"+"11"=="611"
+suma :  6 + 11 == 17
+
+estas funciones tambien  pueden analizar hasta donde el tipo de dato es permitido,  es decir, que  si despues de n numero floante esta varias letras o letras, este parara de analizar y  se detendra. 
+
+
+por ejemplo 
+
+let car = parseFloat(1.2ab);
+las letras las icnoraria 

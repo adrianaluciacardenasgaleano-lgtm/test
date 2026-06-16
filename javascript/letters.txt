@@ -1,0 +1,14 @@
+conso = 0;
+vocal = 0;
+word = "murcialogo";
+list = list(word)
+vocales= ["a","e","i","o","u"]
+for i in list:
+   for e in vocales:
+    if(i ===e ){
+     vocal += 1 
+}
+   else:
+	conso += 1 
+
+console.log("consonantes ${conso}")

@@ -1,0 +1,5 @@
+En este caso, analizaremos  el ciclo for en javascrpt la cual tiene la siguiente sitnaxis, pr o
+antes te comento que el ciclo for es un bucle, es decir  es un scrpt  que se ejecutrara varias veces  si se sigue cumpliendo una condicion 
+for(let i = 0; i <5 i++){
+     console.log(i);
+}

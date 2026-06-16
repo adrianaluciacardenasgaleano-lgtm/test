@@ -1,0 +1,18 @@
+permite realizar  pequelos fracmentos de codigo para  evaluar si se puede 
+es una covnersacion para integrarlo 
+
+sin la necesidad de  estar vinculado a ningun repositorio 
+ir a la pagina principal de git gist 
+ copiaas el codigo y le encias 
+el enlace 
+esperar a refrescar 
+ se gener una discucion para discuir sobre el codgio  
+seleccionar el editar 
+editas el gist 
+de esa forma se  debate cual es la opcion 
+LA CONSIDERACION SOLO ESTA EN 
+gist.git.com 
+
+back de git hub  
+
+guardaer la configuracion 

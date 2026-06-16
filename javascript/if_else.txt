@@ -1,0 +1,7 @@
+in this cse 
+we have  to  a lot of  options we can do  
+if(condition){
+   code;
+}
+
+

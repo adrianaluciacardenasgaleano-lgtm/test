@@ -1,0 +1,14 @@
+with swich we can have a lot of cases  where we have an expresion 
+so 
+ swich (expresion){
+    case value:
+       code;
+       break;
+
+   case vale:
+      code;
+      break;
+   default:
+      code;
+  
+}

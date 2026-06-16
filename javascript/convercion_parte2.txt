@@ -1,0 +1,14 @@
+en este momento recordemos  las funcones que convierten  cadenas d texto a numeros  enteros o flotantes, como por ejemplo 
+ parseFloat()
+parseInt()
+existen otras funciones  que realizan difernetes conversiones como por ejemplo 
+Boolean()      que convierte cualquier tipo de  dto en boolea, claro eta  depende del numero 
+
+ datos coo 
+ 0, " ",  son datos que como resultado daran falso 
+mientras que 
+ "cadenas con valor " 
+, 1, son  datos que se convertiran en verdadeero  porque javascript tiene una conversion  de truthy que significa que si una cadenas d texto tiene algun vcalor se convierte en true. 
+
+
+

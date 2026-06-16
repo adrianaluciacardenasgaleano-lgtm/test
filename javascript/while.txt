@@ -1,0 +1,11 @@
+en estos momentos pasamos al while, es un bucle  que se repite  cierta cantidad 
+de ves ahasta que se cumpla una condicion 
+ po ejemplo 
+
+
+let number = 27M 
+let  power_of_2; 
+while(power_of_2<=number){
+     power_of_2 *= 2;
+   console.log(power_of_2);
+}

@@ -7,3 +7,5 @@ tenenmos
 
 entonces ba = !(5>3 || 5<1)
 la repsuesta es falsa ya que uno de los operandos es verdadero 
+
+// realizar el git add. y el git commit - m " "
